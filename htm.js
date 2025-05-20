@@ -1,5 +1,3 @@
-import { createElement } from './render.js';
-
 /**
  * htm - Hyperscript Tagged Markup
  * Single file version
@@ -326,8 +324,6 @@ let htm;
 
   return htm;
 }));
-
-const html = htm.bind(createElement);
 
 // Add ES Module exports
 export default htm;
