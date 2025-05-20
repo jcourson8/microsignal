@@ -2,10 +2,10 @@
 
 A tiny reactive JavaScript framework inspired by SolidJS and micrograd.
 
-Try our example at
-
 - **microsignal.js**: Core reactivity system with signals, memos, and effects
 - **htm.js**: JSX-like template literals implementation
+
+Try the example [here](https://rawcdn.githack.com/jcourson8/microsignal/522443c7f9b641555c427c2a474ceb37d6819b7c/examples/microsignal.html)!
 
 It combines the following core features:
 
