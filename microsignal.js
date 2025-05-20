@@ -1,5 +1,14 @@
-// microsignal.js - Lightweight reactive framework
-// Import original htm.js from the same directory
+/**
+ * microsignal - A tiny reactive JavaScript framework
+ * 
+ * This code draws inspiration from:
+ * - SolidJS by Ryan Carniato (https://github.com/solidjs/solid)
+ * - S.js by Adam Haile (https://github.com/adamhaile/S)
+ * - htm by Google Inc. (https://github.com/developit/htm)
+ * 
+ * MIT License
+ */
+
 import htm from './htm.js';
 
 /**
