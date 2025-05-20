@@ -327,4 +327,4 @@ let htm;
 
 // Add ES Module exports
 export default htm;
-export { htm, html };
+export { htm };
